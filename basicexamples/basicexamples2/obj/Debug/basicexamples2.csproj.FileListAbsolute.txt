@@ -1,0 +1,7 @@
+B:\office\c#\day1\basicexamples\basicexamples2\bin\Debug\basicexamples2.exe.config
+B:\office\c#\day1\basicexamples\basicexamples2\bin\Debug\basicexamples2.exe
+B:\office\c#\day1\basicexamples\basicexamples2\bin\Debug\basicexamples2.pdb
+B:\office\c#\day1\basicexamples\basicexamples2\obj\Debug\basicexamples2.csproj.CoreCompileInputs.cache
+B:\office\c#\day1\basicexamples\basicexamples2\obj\Debug\basicexamples2.exe
+B:\office\c#\day1\basicexamples\basicexamples2\obj\Debug\basicexamples2.pdb
+B:\office\c#\day1\basicexamples\basicexamples2\obj\Debug\basicexamples2.csprojAssemblyReference.cache
